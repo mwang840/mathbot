@@ -17,7 +17,7 @@ public class EasyMath {
         return number1 * number2;
     }
 
-    publit int divide(int number, int number2){
+    public int divide(int number, int number2){
         if(number2 != 0){
             return number / number2;
         }
