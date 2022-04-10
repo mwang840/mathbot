@@ -1,5 +1,7 @@
 import discord;
 
 public static void main (string[] args){
-    System.out.println("Hello!");
+    int num =2;
+
+    System.out.println(root(num));
 }
