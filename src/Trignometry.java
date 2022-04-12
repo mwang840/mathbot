@@ -18,4 +18,8 @@ public class Trignometry{
         double radians = Math.toRadians(number);
         return Math.tan(radians);
     }
+
+    public double secant(double number, double number2, double number3){
+
+    }
 }
