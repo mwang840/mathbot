@@ -13,4 +13,9 @@ public class Trignometry{
         double radians = Math.toRadians(number);
         return Math.cos(radians);
     }
+
+    public double tangent(double number){
+        double radians = Math.toRadians(number);
+        return Math.tan(radians);
+    }
 }
